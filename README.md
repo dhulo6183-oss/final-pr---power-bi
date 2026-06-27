@@ -43,9 +43,6 @@ The model uses a **star schema** with `Students` as the central dimension table,
 
 ### 1. Main Dashboard
 
-<p align="center">
-  <img src="Screenshots/Dashboard.png" alt="Main Dashboard" width="100%"/>
-</p>
 
 **Visuals included:**
 - 📦 **KPI Cards** — Total Students, Average Score, Attendance %, % Score
@@ -59,9 +56,6 @@ The model uses a **star schema** with `Students` as the central dimension table,
 
 ### 2. Drillthrough — Student Profile
 
-<p align="center">
-  <img src="Screenshots/Drillthrough.png" alt="Drillthrough Page" width="100%"/>
-</p>
 
 Right-click any student in the summary table to drill through to their individual profile, which shows:
 - Student Name, Attendance %, Section, % Score
@@ -72,9 +66,6 @@ Right-click any student in the summary table to drill through to their individua
 
 ### 3. Tooltip
 
-<p align="center">
-  <img src="Screenshots/Tooltip.png" alt="Tooltip" width="60%"/>
-</p>
 
 Hovering over visuals reveals a **custom tooltip page** displaying % Score, Attendance %, and Behavior Count for the hovered context.
 
@@ -141,7 +132,7 @@ The report is fully optimized for the **Power BI mobile app** across all pages.
 
 ## 👤 Author
 
-**Harshal Vora**
+**dhruv prajapati**
 
 [![GitHub](https://img.shields.io/badge/GitHub-HarshalVora86-181717?style=flat&logo=github)](https://github.com/HarshalVora86)
 
