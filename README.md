@@ -1,8 +1,6 @@
-# 📊 Student Performance Analytics Dashboard — Power BI
+# 📊 Student Performance  — Power BI
 
-> **Red & White Skill Education** | Power BI Practical Exam | Total Marks: 50
 
----
 
 ## 📌 Project Overview
 
