@@ -254,13 +254,3 @@ Student_Performance_Analytics_Dashboard_Power_BI/
 
 **Dhruv Prajapati**
 
-[![GitHub](https://img.shields.io/badge/GitHub-HarshalVora86-181717?style=flat&logo=github)](https://github.com/HarshalVora86)
-
----
-
-## 🏫 Institution
-
-**Red & White Skill Education**  
-*"Quality is our Motto." · Shaping skills for scaling higher...!!!*
-
----
